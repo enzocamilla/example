@@ -10,5 +10,5 @@ what i need :
 1. smile
 1. happiness
 
-[adding a link](https://www.cvovolt.be/contact)
+
 
