@@ -10,3 +10,5 @@ what i need :
 1. smile
 1. happiness
 
+![Ma photo](images/foto.dolinio.jpg)
+
